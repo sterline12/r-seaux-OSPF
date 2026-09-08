@@ -1,5 +1,5 @@
 # Projet Cisco Packet Tracer
-##jbkjsdbkjsbckj
+
 
 ## 📌 Description
 Ce projet a été réalisé avec Cisco Packet Tracer dans le cadre de monapprentissage des réseaux informatiques.
@@ -10,7 +10,7 @@ Un protocole qui nous permet de régir le trafic au sein d’un système autonom
 exemple). Qui peut être lui-même être constitué de plusieurs zones (areas) distinctes interconnectées par des routeurs.
 
 Réaliser le routage de sorte que le réseau forme un espace totalement connexe, c-à-d tout terminal rattaché à tout routeur peut être joint par tout autre terminal du même réseau. De plus, ce réseau, qui est vu comme un AS, possède un Intranet et il est connecté au reste d’INTERNET, ainsi qu’à un site particulier via une liaison dédié. 
-
+##khlkhdlkfldkfd;kf
 ## 🎯 Objectifs
 
 * Concevoir une topologie réseau
